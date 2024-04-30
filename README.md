@@ -1,6 +1,10 @@
  TANSSi-NODE
 
             ![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/5e551ed3-c422-4b77-b626-3f6d32b07ca3)
+
+
+
+            # [Website](https://www.cess.cloud/) | [Twitter](https://twitter.com/CESS_Storage) | [Discord](https://discord.gg/DyEzq6Js) | [Github](https://github.com/CESSProject) | [Docs](https://docs.cess.cloud/cess-build-book/)
            
 
 
