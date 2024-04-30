@@ -93,16 +93,15 @@ sudo systemctl daemon-reload
 sudo systemctl enable tanssid.service
 sudo systemctl restart tanssid.service
 ```
-journalctl -u tanssid -fo cat
+
 
 Logları kontrol edelim 
-
 
 ```shell
 journalctl -u tanssid -fo cat
 ```
 
-key oluşturalım log kodundan çıkış yapınız ctrl c
+Key oluşturalım (log kodundan çıkış yapınız ctrl c)
 
 
 ```shell
