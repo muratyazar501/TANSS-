@@ -9,14 +9,18 @@
            
 
 
-#[Website](https://www.tanssi.network/)|[Twitter](https://twitter.com/TanssiNetwork)
+[Website](https://www.tanssi.network/)|[Twitter](https://twitter.com/TanssiNetwork)
 
-|[Discord](https://discord.gg/WMxTM2fQkr)
+[Discord](https://discord.gg/WMxTM2fQkr)
 
-|[Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
+[Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
      
- |[X](https://twitter.com/TanssiNetwork)
+[X-twitter](https://twitter.com/TanssiNetwork)
 
+[Tannsi Form](https://www.tanssi.network/block-producer-form)
+
+
+Önemli uyarı:node kurulumu bitirdikten sonra form doldurmayı unutmayınız ve discord giriniz...
 
 
 
@@ -34,7 +38,7 @@ mv /root/tanssi-node /root/tanssi-data
 
 ```
 
-Servis kurulumunu ayarlama NODEADINIYAZ bulunan yerlere node isminizi yazmayı unutmayınız eğer hata ile adınıız yazmayı unutursanız lütfen 08 nolu koda gidiniz
+Servis kurulumunu ayarlama kodu NODEADINIYAZ bulunan yerlere node isminizi yazmayı unutmayınız eğer hata ile adınıızı yazmayı unutursanız lütfen 08 nolu koda gidiniz
 
 ```shell
 sudo tee /etc/systemd/system/tanssid.service > /dev/null <<'EOF'
@@ -81,8 +85,9 @@ EOF
 ```
 
 Başlatalım...
+08 nolu kod:servis kurulumunda isminizi yazmayı unutursanız bir önceki kodu (servis kurulumu ayarlama kodu) NODEADINIYAZ bölümlerine node adınızı yazıp aşağıdaki kodu giriiniz...
 
-
+ 
 ```shell
 sudo systemctl daemon-reload
 sudo systemctl enable tanssid.service
@@ -110,3 +115,5 @@ curl http://127.0.0.1:9944 -H \
     "params": []
   }'
 ```
+
+
