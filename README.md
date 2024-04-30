@@ -17,7 +17,7 @@
      
 [X-twitter](https://twitter.com/TanssiNetwork)
 
-[Tannsi Form](https://www.tanssi.network/block-producer-form)
+[Tanssi Form](https://www.tanssi.network/block-producer-form)
 
 
 Önemli uyarı:node kurulumu bitirdikten sonra form doldurmayı unutmayınız ve discord giriniz...
