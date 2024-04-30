@@ -20,7 +20,7 @@
 [Tanssi Form](https://www.tanssi.network/block-producer-form)
 
 
-Gereksinimler:CPU	2+ RAM-	4+-GB Storage-160+ GB SSD
+Gereksinimler:CPU	2+ RAM-	4+-GB Storage-160+ GB SSD Ubuntu 22.04
 
 
 Önemli uyarı:node kurulumu bitirdikten sonra form doldurmayı unutmayınız ve discord giriniz...
