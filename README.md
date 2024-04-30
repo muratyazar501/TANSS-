@@ -1,6 +1,6 @@
                                                                          TANSSi-NODE
 
-                             ![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/a8cb84d3-8e54-4a4d-8f2c-6b9a3bf51ea4)
+![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/5c60c30e-4f81-4887-9933-ee9a49b1d9f6)
 
 
 #[Website]https://www.tanssi.network/) | [Twitter]https://twitter.com/TanssiNetwork) | [Discord]https://discord.gg/WMxTM2fQkr) | [Docs](https://docs.tanssi.network/node-operators/block-producers/onboarding/run-a-block-producer/block-producer-systemd/) | [Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
