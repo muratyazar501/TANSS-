@@ -15,9 +15,7 @@
 
 |[Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
      
-
-
-https://twitter.com/TanssiNetwork
+ |[X](https://twitter.com/TanssiNetwork)
 
 
 
