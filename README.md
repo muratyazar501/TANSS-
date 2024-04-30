@@ -9,9 +9,9 @@
            
 
 
-#[Website]https://www.tanssi.network/)|[Twitter]https://twitter.com/TanssiNetwork)
+#[Website](https://www.tanssi.network/)|[Twitter](https://twitter.com/TanssiNetwork)
 
-|[Discord]https://discord.gg/WMxTM2fQkr)
+|[Discord](https://discord.gg/WMxTM2fQkr)
 
 |[Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
      
