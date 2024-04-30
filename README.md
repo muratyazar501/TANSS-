@@ -1,13 +1,17 @@
  TANSSi-NODE
 
-                             ![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/5c60c30e-4f81-4887-9933-ee9a49b1d9f6)
+            ![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/5e551ed3-c422-4b77-b626-3f6d32b07ca3)
+           
 
 
-#[Website]https://www.tanssi.network/)|[Twitter]https://twitter.com/TanssiNetwork)|[Discord]https://discord.gg/WMxTM2fQkr)[Docs](https://docs.tanssi.network/node-operators/block-producers/onboarding/run-a-block-producer/block-producer-systemd/) | [Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
+#[Website]https://www.tanssi.network/)|[Twitter]https://twitter.com/TanssiNetwork)
+|[Discord]https://discord.gg/WMxTM2fQkr)
+[Docs](https://docs.tanssi.network/node-operators/block-producers/onboarding/run-a-block-producer/block-producer-systemd/)
+|[Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
      
  </div>
 
-#
+ #
 
 https://twitter.com/TanssiNetwork
 
