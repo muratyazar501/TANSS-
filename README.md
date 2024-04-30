@@ -20,6 +20,9 @@
 [Tanssi Form](https://www.tanssi.network/block-producer-form)
 
 
+Gereksinimler:CPU	2+ RAM-	4+-GB Storage-160+ GB SSD
+
+
 Önemli uyarı:node kurulumu bitirdikten sonra form doldurmayı unutmayınız ve discord giriniz...
 
 
