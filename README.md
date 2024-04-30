@@ -3,7 +3,7 @@
                              ![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/a8cb84d3-8e54-4a4d-8f2c-6b9a3bf51ea4)
 
 
-# https://www.tanssi.network/   [Website]https://www.tanssi.network/) | [Twitter]https://twitter.com/TanssiNetwork) | [Discord]https://discord.gg/WMxTM2fQkr) | [Docs](https://docs.tanssi.network/node-operators/block-producers/onboarding/run-a-block-producer/block-producer-systemd/) | [Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
+#[Website]https://www.tanssi.network/) | [Twitter]https://twitter.com/TanssiNetwork) | [Discord]https://discord.gg/WMxTM2fQkr) | [Docs](https://docs.tanssi.network/node-operators/block-producers/onboarding/run-a-block-producer/block-producer-systemd/) | [Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
      
  </div>
 
