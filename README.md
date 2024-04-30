@@ -1,10 +1,11 @@
  TANSSi-NODE
 
-            ![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/5e551ed3-c422-4b77-b626-3f6d32b07ca3)
+        
+
+![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/13951c36-baea-4208-a549-a23bb6e1a546)
 
 
-
-            # [Website](https://www.cess.cloud/) | [Twitter](https://twitter.com/CESS_Storage) | [Discord](https://discord.gg/DyEzq6Js) | [Github](https://github.com/CESSProject) | [Docs](https://docs.cess.cloud/cess-build-book/)
+ 
            
 
 
@@ -13,9 +14,7 @@
 [Docs](https://docs.tanssi.network/node-operators/block-producers/onboarding/run-a-block-producer/block-producer-systemd/)
 |[Explorer](https://polkadot.js.org/apps/?rpc=wss://fraa-dancebox-rpc.a.dancebox.tanssi.network#/extrinsics)
      
- </div>
 
- #
 
 https://twitter.com/TanssiNetwork
 
