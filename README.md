@@ -117,5 +117,5 @@ curl http://127.0.0.1:9944 -H \
 
 kaynak:core node
 
-[X-twitter](https://twitter.com/BerraVolkan)
+takip için linki tıklayabilirsiniz:[X-twitter](https://twitter.com/BerraVolkan)
 
