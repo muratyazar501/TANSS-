@@ -1,4 +1,4 @@
-                                                                        # TANSSi-NODE
+                                                                         TANSSi-NODE
 
                              ![image](https://github.com/muratyazar501/TANSS--NODE/assets/136369047/a8cb84d3-8e54-4a4d-8f2c-6b9a3bf51ea4)
 
@@ -7,6 +7,8 @@
      
  </div>
 
+ 
+#
 
 https://twitter.com/TanssiNetwork
 
